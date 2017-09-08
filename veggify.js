@@ -1,4 +1,4 @@
-var deadAnimals = ["hús", "csirke", "kolbász", "sonka", "tarja", "szalámi", "tenger gyümölcsei", "virsli", "tonhal", "bolognai", "bacon", "jérce", "lazac", "borjú", "pulyka", "pecsenye", "gulyás", "csülök", "marha", "pacal", "zúza", "sertés", "pörkölt", "hentes", "flekken", "harcsa", "rákfélék", "kaviár", "tepertő", "kacsa"];
+var deadAnimals = ["hús", "csirke", "kolbász", "sonka", "tarja", "szalámi", "tenger gyümölcsei", "virsli", "tonhal", "bolognai", "bacon", "jérce", "lazac", "borjú", "pulyka", "pecsenye", "gulyás", "csülök", "marha", "pacal", "zúza", "sertés", "pörkölt", "hentes", "flekken", "harcsa", "rákfélék", "kaviár", "tepertő", "kacsa", "csontleves", "májgaluska", "májgombóc"];
 
 function disable(description) {
 	description.parentNode.parentNode.style.opacity = "0.3";
