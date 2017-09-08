@@ -1,9 +1,9 @@
 {
 	"manifest_version": 2,
-	"name": "Veggify Netpincer",
+	"name": "Veggify Netpincér",
 	"version": "1.0",
 
-	"description": "Netpincéren húsmentes ételek megtalálását segítő bővítmény. / This extension aims filter out non-vegetarian foods on the Netpincér.",
+	"description": "Netpincéren húsmentes ételek megtalálását segítő bővítmény. / This extension aims to filter out non-vegetarian foods on Netpincér.",
 
 	"icons": {
 		"48": "icons/v-48.jpg",
